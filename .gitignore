@@ -1,9 +1,10 @@
 
+/x64
 /.vs
 /quick-addition/x64
-/x64
-quick-multiplication/quick-multiplication.vcxproj.user
-quick-multiplication/quick-multiplication.vcxproj.filters
+/quick-multiplication/x64
 quick-addition/quick-addition.vcxproj.user
 quick-addition/quick-addition.vcxproj.filters
-/quick-multiplication/x64
+quick-multiplication/quick-multiplication.vcxproj.user
+quick-multiplication/quick-multiplication.vcxproj.filters
+
