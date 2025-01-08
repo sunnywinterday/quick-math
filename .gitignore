@@ -8,3 +8,6 @@ quick-addition/quick-addition.vcxproj.filters
 quick-multiplication/quick-multiplication.vcxproj.user
 quick-multiplication/quick-multiplication.vcxproj.filters
 
+/quick-division/x64/Debug
+*.filters
+*.user

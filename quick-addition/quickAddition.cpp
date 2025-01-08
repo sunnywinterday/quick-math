@@ -48,13 +48,13 @@ int generateAdditionProblem() {
     int secondRandomAdditionValue = distrib(gen);
 
     // question for the sum 
-    std::cout << firstRandomAdditionValue << "+" << secondRandomAdditionValue << " = ?\n";
+    std::cout << firstRandomAdditionValue << " + " << secondRandomAdditionValue << " = ?\n";
     std::cin >> answer;
     
     // if it's right say so
     if (answer == (firstRandomAdditionValue + secondRandomAdditionValue)) {
         // yippee !!!
-        std::cout << "\nCorrect answer\n";
+        std::cout << "\nCorrect Answer\n\n";
     }
 
     // get it right 
