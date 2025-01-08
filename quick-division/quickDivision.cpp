@@ -24,7 +24,7 @@ int main() {
 
         // commented this out so that I don't have to worry about answering this 
         /*
-        std::cout << "Go again? y or n\n";
+        std::cout << "Go again? y or n";
         std::cin >> choice;
         */
     }
