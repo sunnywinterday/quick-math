@@ -1,15 +1,11 @@
 
 /.vs
+*.user
+*.filters
 /x64/Debug
 /quick-addition/x64
 /quick-division/x64
 /quick-subtraction/x64
 /quick-multiplication/x64
-quick-addition/quick-addition.vcxproj.user
-quick-addition/quick-addition.vcxproj.filters
-quick-multiplication/quick-multiplication.vcxproj.user
-quick-multiplication/quick-multiplication.vcxproj.filters
 
-/quick-division/x64/Debug
-*.filters
-*.user
+
